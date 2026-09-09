@@ -7,7 +7,7 @@ Blazing 💥 fast terminal-ui for git written in rust 🦀
 - **Latest release**: `v0.28.1` (2026-03-24)
 - **Last commit**: 2026-07-31
 - **License**: MIT
-- **Stars**: 22471 · **Forks**: 770 · **Open issues**: 1102 · **Contributors**: 141
+- **Stars**: 22471 · **Forks**: 771 · **Open issues**: 1102 · **Contributors**: 141
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gitui> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:17:49Z._
+_Last regenerated: 2026-09-09T19:15:36Z._
