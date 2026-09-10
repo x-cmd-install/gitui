@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,476 · **Forks**: 771 · **Open issues**: 1,102 · **Contributors**: 141
+- **Stars**: 22,477 · **Forks**: 771 · **Open issues**: 1,102 · **Contributors**: 141
 
 ## Totals (cumulative)
 
@@ -100,4 +100,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:02:49Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:52:10Z._

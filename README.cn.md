@@ -12,7 +12,7 @@ Blazing 💥 fast terminal-ui for git written in rust 🦀
 x install gitui
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **41,762** 行代码（覆盖前 5 种语言、共 **177** 个文件）。
 
@@ -47,7 +47,7 @@ x install gitui
 
 ## 流行度
 
-- **Star**: 22,476 · **Fork**: 771 · **开放 issue**: 1,102 · **贡献者**: 141
+- **Star**: 22,477 · **Fork**: 771 · **开放 issue**: 1,102 · **贡献者**: 141
 
 ## 累计统计
 
@@ -100,4 +100,4 @@ gitui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:02:50Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:52:11Z._
