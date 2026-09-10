@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6987794,
       "digest": "sha256:2a640da05b73e9152a7bf92bfd7c23acd9d60438f4f2cabb62357014a5fd7c28",
-      "download_count": 2867,
+      "download_count": 2874,
       "created_at": "2026-03-24T23:30:08Z",
       "updated_at": "2026-03-24T23:30:09Z",
       "browser_download_url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6840775,
       "digest": "sha256:f6149b9ae203397158b0c89c13cfde718e7121d3d3cd2ebc597f93d6628d9b5b",
-      "download_count": 23941,
+      "download_count": 23989,
       "created_at": "2026-03-24T23:26:27Z",
       "updated_at": "2026-03-24T23:26:28Z",
       "browser_download_url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5823957,
       "digest": "sha256:27e2f558ca7ebbc7b5fc4c1f61285355d2ea4735610e906579e5b3c8736e7685",
-      "download_count": 707,
+      "download_count": 708,
       "created_at": "2026-03-24T23:33:12Z",
       "updated_at": "2026-03-24T23:33:13Z",
       "browser_download_url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6023751,
       "digest": "sha256:3b519a593383841289361bacf579d4a222169aa7ebbdeae6cc449d488d8bb967",
-      "download_count": 5617,
+      "download_count": 5623,
       "created_at": "2026-03-24T23:33:12Z",
       "updated_at": "2026-03-24T23:33:13Z",
       "browser_download_url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6213632,
       "digest": "sha256:6b720d82c4afaeb5ed07eb5b99c4e89868b5df59530528cb873cf1a8d2d598e3",
-      "download_count": 5647,
+      "download_count": 5651,
       "created_at": "2026-03-24T23:52:03Z",
       "updated_at": "2026-03-24T23:52:03Z",
       "browser_download_url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.msi"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4757777,
       "digest": "sha256:fab116ccdf9ae4e17378db912d76cc26e60aefd2226f44e665120dea166867e4",
-      "download_count": 4916,
+      "download_count": 4928,
       "created_at": "2026-03-24T23:52:03Z",
       "updated_at": "2026-03-24T23:52:03Z",
       "browser_download_url": "https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.tar.gz"
