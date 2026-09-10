@@ -4,7 +4,7 @@
 
 Blazing 💥 fast terminal-ui for git written in rust 🦀
 
-![gitui](https://repo.x-cmd.io/gitui.svg)
+![gitui](https://repo.x-cmd.io/gitui.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,19 @@ x install gitui
 - **最新版本**: `v0.28.1` (2026-03-24)
 - **最近提交**: 2026-07-31
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-03-24T23:26:28Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gitui-linux-aarch64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-aarch64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [gitui-linux-arm.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
+| [gitui-linux-armv7.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-armv7.tar.gz) | 5.8 MiB | `native/linux/arm` |
+| [gitui-linux-x86_64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
+| [gitui-mac-x86.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz) | 5.6 MiB | `native/unknown` |
+| [gitui-mac.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac.tar.gz) | 5.7 MiB | `native/unknown` |
+| [gitui-win.msi](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.msi) | 5.9 MiB | `other` |
+| [gitui-win.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.tar.gz) | 4.5 MiB | `native/unknown` |
 
 ## 流行度
 
@@ -71,4 +83,4 @@ gitui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:05:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:33Z._

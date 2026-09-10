@@ -22,7 +22,19 @@ x install gitui
 - **Latest**: `v0.28.1` (2026-03-24)
 - **Last commit**: 2026-07-31
 - **Assets in release**: 8
-- **Published**: 2026-03-24T23:26:28Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gitui-linux-aarch64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-aarch64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [gitui-linux-arm.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
+| [gitui-linux-armv7.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-armv7.tar.gz) | 5.8 MiB | `native/linux/arm` |
+| [gitui-linux-x86_64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
+| [gitui-mac-x86.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz) | 5.6 MiB | `native/unknown` |
+| [gitui-mac.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac.tar.gz) | 5.7 MiB | `native/unknown` |
+| [gitui-win.msi](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.msi) | 5.9 MiB | `other` |
+| [gitui-win.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.tar.gz) | 4.5 MiB | `native/unknown` |
 
 ## Popularity
 
@@ -67,8 +79,8 @@ Lowest-scoring checks:
 Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gitui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gitui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:05:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:33Z._
