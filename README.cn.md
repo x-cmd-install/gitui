@@ -31,7 +31,7 @@ x install gitui
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 13/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install gitui
 
 ## 流行度
 
-- **Star**: 22,531 · **Fork**: 777 · **开放 issue**: 1,105 · **贡献者**: 142
+- **Star**: 22,533 · **Fork**: 777 · **开放 issue**: 1,105 · **贡献者**: 142
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install gitui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-03 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-08 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-04 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-09 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ gitui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:51:25Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:07:35Z._
