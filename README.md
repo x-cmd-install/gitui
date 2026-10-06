@@ -14,11 +14,11 @@ x install gitui
 
 ## Code insight
 
-Total: **41,762** lines of code across **177** files in the top 5 languages.
+Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 41,392 | 880 | 6,664 | 162 |
+| Rust | 41,389 | 880 | 6,664 | 162 |
 | Toml | 259 | 41 | 22 | 12 |
 | Makefile | 87 | 8 | 33 | 1 |
 | RON | 23 | 9 | 8 | 1 |
@@ -26,12 +26,12 @@ Total: **41,762** lines of code across **177** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 13/30 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.28.1` (2026-03-24)
-- **Last commit**: 2026-07-31
+- **Last commit**: 2026-10-05
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 22,550 · **Forks**: 780 · **Open issues**: 1,105 · **Contributors**: 142
+- **Stars**: 22,549 · **Forks**: 780 · **Open issues**: 1,106 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 1121 · **Open PRs**: 104 · **Closed issues**: 861 · **Open issues**: 244 · **Commits**: 2630
+- **Releases**: 67 · **Merged PRs**: 1123 · **Open PRs**: 102 · **Closed issues**: 861 · **Open issues**: 245 · **Commits**: 2632
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:05:22Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:43:47Z._
