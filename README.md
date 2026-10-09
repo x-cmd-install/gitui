@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,550 · **Forks**: 780 · **Open issues**: 1,106 · **Contributors**: 142
+- **Stars**: 22,555 · **Forks**: 781 · **Open issues**: 1,107 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 101 · **Closed issues**: 861 · **Open issues**: 245 · **Commits**: 2633
+- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 102 · **Closed issues**: 862 · **Open issues**: 245 · **Commits**: 2633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-13 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-14 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-19 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:28:55Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:24:06Z._
