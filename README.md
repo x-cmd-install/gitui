@@ -26,13 +26,13 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 13/30 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,556 · **Forks**: 783 · **Open issues**: 1,107 · **Contributors**: 142
+- **Stars**: 22,561 · **Forks**: 783 · **Open issues**: 1,107 · **Contributors**: 142
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-16 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-21 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-17 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-22 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:00:47Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:18:09Z._
