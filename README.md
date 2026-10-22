@@ -24,19 +24,9 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 | RON | 23 | 9 | 8 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.8 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
-- **Upstream**: <https://github.com/extrawurst/gitui>
+- **Upstream**: <https://github.com/gitui-org/gitui>
 - **License**: MIT
 
 ## Release
@@ -47,35 +37,35 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,591 · **Forks**: 787 · **Open issues**: 1,108 · **Contributors**: 142
+- **Stars**: 22,590 · **Forks**: 788 · **Open issues**: 1,108 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 104 · **Closed issues**: 862 · **Open issues**: 246 · **Commits**: 2633
+- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 105 · **Closed issues**: 862 · **Open issues**: 246 · **Commits**: 2633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 0 | 2 | 4 | 1 | 3 | 3 |
+| last60d | 2026-08-23 | 0 | 2 | 6 | 1 | 7 | 3 |
+| 90d | 2026-07-24 | 0 | 3 | 17 | 2 | 10 | 5 |
+| last180d | 2026-04-25 | 0 | 12 | 48 | 5 | 21 | 20 |
+| 360d | 2025-10-27 | 4 | 69 | 70 | 26 | 51 | 89 |
+| last720d | 2024-11-01 | 6 | 216 | 85 | 67 | 97 | 263 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gitui-linux-aarch64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-aarch64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
-| [gitui-linux-arm.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
-| [gitui-linux-armv7.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-armv7.tar.gz) | 5.8 MiB | `native/linux/arm` |
-| [gitui-linux-x86_64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
-| [gitui-mac-x86.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz) | 5.6 MiB | `native/unknown` |
-| [gitui-mac.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac.tar.gz) | 5.7 MiB | `native/unknown` |
-| [gitui-win.msi](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.msi) | 5.9 MiB | `other` |
-| [gitui-win.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.tar.gz) | 4.5 MiB | `native/unknown` |
+| [gitui-linux-aarch64.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-aarch64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [gitui-linux-arm.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
+| [gitui-linux-armv7.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-armv7.tar.gz) | 5.8 MiB | `native/linux/arm` |
+| [gitui-linux-x86_64.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
+| [gitui-mac-x86.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz) | 5.6 MiB | `native/unknown` |
+| [gitui-mac.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac.tar.gz) | 5.7 MiB | `native/unknown` |
+| [gitui-win.msi](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.msi) | 5.9 MiB | `other` |
+| [gitui-win.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.tar.gz) | 4.5 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -86,4 +76,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:04:46Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:03:24Z._

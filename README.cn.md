@@ -24,19 +24,9 @@ x install gitui
 | RON | 23 | 9 | 8 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **3.8 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
-- **上游仓库**: <https://github.com/extrawurst/gitui>
+- **上游仓库**: <https://github.com/gitui-org/gitui>
 - **许可证**: MIT
 
 ## 发布
@@ -47,35 +37,35 @@ x install gitui
 
 ## 流行度
 
-- **Star**: 22,591 · **Fork**: 787 · **开放 issue**: 1,108 · **贡献者**: 142
+- **Star**: 22,590 · **Fork**: 788 · **开放 issue**: 1,108 · **贡献者**: 142
 
 ## 累计统计
 
-- **发布数**: 67 · **已合并 PR**: 1124 · **开放 PR**: 104 · **已关闭 issue**: 862 · **开放 issue**: 246 · **提交数**: 2633
+- **发布数**: 67 · **已合并 PR**: 1124 · **开放 PR**: 105 · **已关闭 issue**: 862 · **开放 issue**: 246 · **提交数**: 2633
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 0 | 2 | 4 | 1 | 3 | 3 |
+| last60d | 2026-08-23 | 0 | 2 | 6 | 1 | 7 | 3 |
+| 90d | 2026-07-24 | 0 | 3 | 17 | 2 | 10 | 5 |
+| last180d | 2026-04-25 | 0 | 12 | 48 | 5 | 21 | 20 |
+| 360d | 2025-10-27 | 4 | 69 | 70 | 26 | 51 | 89 |
+| last720d | 2024-11-01 | 6 | 216 | 85 | 67 | 97 | 263 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gitui-linux-aarch64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-aarch64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
-| [gitui-linux-arm.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
-| [gitui-linux-armv7.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-armv7.tar.gz) | 5.8 MiB | `native/linux/arm` |
-| [gitui-linux-x86_64.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-linux-x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
-| [gitui-mac-x86.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz) | 5.6 MiB | `native/unknown` |
-| [gitui-mac.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-mac.tar.gz) | 5.7 MiB | `native/unknown` |
-| [gitui-win.msi](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.msi) | 5.9 MiB | `other` |
-| [gitui-win.tar.gz](https://github.com/extrawurst/gitui/releases/download/v0.28.1/gitui-win.tar.gz) | 4.5 MiB | `native/unknown` |
+| [gitui-linux-aarch64.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-aarch64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [gitui-linux-arm.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
+| [gitui-linux-armv7.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-armv7.tar.gz) | 5.8 MiB | `native/linux/arm` |
+| [gitui-linux-x86_64.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-linux-x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
+| [gitui-mac-x86.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac-x86.tar.gz) | 5.6 MiB | `native/unknown` |
+| [gitui-mac.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-mac.tar.gz) | 5.7 MiB | `native/unknown` |
+| [gitui-win.msi](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.msi) | 5.9 MiB | `other` |
+| [gitui-win.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.tar.gz) | 4.5 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -86,4 +76,4 @@ gitui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:04:47Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:03:25Z._
