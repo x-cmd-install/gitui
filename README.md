@@ -37,22 +37,22 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,590 · **Forks**: 788 · **Open issues**: 1,108 · **Contributors**: 142
+- **Stars**: 22,593 · **Forks**: 788 · **Open issues**: 1,109 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 105 · **Closed issues**: 862 · **Open issues**: 246 · **Commits**: 2633
+- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 105 · **Closed issues**: 862 · **Open issues**: 247 · **Commits**: 2633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 4 | 1 | 3 | 3 |
-| last60d | 2026-08-23 | 0 | 2 | 6 | 1 | 7 | 3 |
-| 90d | 2026-07-24 | 0 | 3 | 17 | 2 | 10 | 5 |
-| last180d | 2026-04-25 | 0 | 12 | 48 | 5 | 21 | 20 |
-| 360d | 2025-10-27 | 4 | 69 | 70 | 26 | 51 | 89 |
-| last720d | 2024-11-01 | 6 | 216 | 85 | 67 | 97 | 263 |
+| 30d | 2026-09-23 | 0 | 2 | 4 | 1 | 4 | 3 |
+| last60d | 2026-08-24 | 0 | 2 | 6 | 1 | 8 | 3 |
+| 90d | 2026-07-25 | 0 | 3 | 17 | 2 | 11 | 5 |
+| last180d | 2026-04-26 | 0 | 12 | 48 | 5 | 22 | 20 |
+| 360d | 2025-10-28 | 4 | 66 | 70 | 26 | 52 | 89 |
+| last720d | 2024-11-02 | 6 | 216 | 85 | 67 | 98 | 262 |
 
 ## Release assets
 
@@ -67,6 +67,20 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 | [gitui-win.msi](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.msi) | 5.9 MiB | `other` |
 | [gitui-win.tar.gz](https://github.com/gitui-org/gitui/releases/download/v0.28.1/gitui-win.tar.gz) | 4.5 MiB | `native/unknown` |
 
+## Distribution status
+
+Reported by **74** distros on [repology.org](https://repology.org/project/gitui). **38** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.28.1` | ✅ latest |
+| Homebrew | `0.28.1` | ✅ latest |
+| Fedora rawhide | `0.28.1` | ✅ latest |
+| Nix unstable | `0.28.1` | ✅ latest |
+| Void | `0.28.1` | ✅ latest |
+| Alpine edge | `0.28.1` | ✅ latest |
+| openSUSE Tumbleweed | `0.28.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +90,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:03:24Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:06:52Z._
