@@ -1,3 +1,52 @@
+- repo: liguros_stable
+  srcname: dev-vcs/gitui
+  visiblename: dev-vcs/gitui
+  version: 0.27.0
+  origversion: null
+  status: outdated
+  summary: blazing fast terminal-ui for git
+  maintainers:
+    - pastalian46@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - dev-vcs
+- repo: aur
+  srcname: gitui-git
+  binname: gitui-git
+  visiblename: gitui-git
+  version: 0.27.0.r107.gfd46b9a0
+  origversion: 0.27.0.r107.gfd46b9a0-1
+  status: rolling
+  summary: Blazing fast terminal-ui for git written in Rust
+  maintainers:
+    - alerque@aur
+  licenses:
+    - MIT
+- repo: fedora_39
+  subrepo: release
+  srcname: rust-gitui
+  binnames:
+    - gitui
+    - rust-gitui-debuginfo
+    - rust-gitui-debugsource
+  visiblename: rust-gitui
+  version: 0.23.0
+  origversion: 0.23.0-1.fc39
+  status: legacy
+  summary: Blazing fast terminal-ui for git
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: aerynos
   srcname: gitui
   visiblename: gitui
@@ -7,21 +56,6 @@
   summary: Git terminal user interface
   licenses:
     - MIT
-- repo: gnuguix
-  srcname: gitui
-  binname: gitui
-  visiblename: gitui
-  version: 0.28.1
-  origversion: null
-  status: newest
-  summary: Terminal UI for git
-- repo: homebrew
-  srcname: gitui
-  visiblename: gitui
-  version: 0.28.1
-  origversion: null
-  status: newest
-  summary: Blazing fast terminal-ui for git written in rust
 - repo: alpine_3_17
   subrepo: community
   srcname: gitui
@@ -206,18 +240,6 @@
     - alizain@aur
   licenses:
     - MIT
-- repo: aur
-  srcname: gitui-git
-  binname: gitui-git
-  visiblename: gitui-git
-  version: 0.27.0.r107.gfd46b9a0
-  origversion: 0.27.0.r107.gfd46b9a0-1
-  status: rolling
-  summary: Blazing fast terminal-ui for git written in Rust
-  maintainers:
-    - alerque@aur
-  licenses:
-    - MIT
 - repo: chimera
   subrepo: user
   srcname: gitui
@@ -274,6 +296,17 @@
   summary: blazing fast terminal-ui for git written in rust
   maintainers:
     - tbier@posteo.de
+- repo: parabola
+  subrepo: extra
+  srcname: gitui
+  binname: gitui
+  visiblename: gitui
+  version: 0.28.1
+  origversion: 0.28.1-2
+  status: newest
+  summary: Blazing fast terminal-ui for git written in Rust
+  licenses:
+    - MIT
 - repo: fedora_39
   subrepo: updates
   srcname: rust-gitui
@@ -285,22 +318,6 @@
   version: 0.26.3
   origversion: 0.26.3-1.fc39
   status: outdated
-  summary: Blazing fast terminal-ui for git
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
-  subrepo: release
-  srcname: rust-gitui
-  binnames:
-    - gitui
-    - rust-gitui-debuginfo
-    - rust-gitui-debugsource
-  visiblename: rust-gitui
-  version: 0.23.0
-  origversion: 0.23.0-1.fc39
-  status: legacy
   summary: Blazing fast terminal-ui for git
   licenses:
     - MIT
@@ -339,22 +356,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: rust-gitui
-  binnames:
-    - gitui
-    - rust-gitui-debuginfo
-    - rust-gitui-debugsource
-  visiblename: rust-gitui
-  version: 0.26.3
-  origversion: 0.26.3-2.fc41
-  status: legacy
-  summary: Blazing fast terminal-ui for git
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: rust-gitui
   binnames:
@@ -365,6 +366,22 @@
   version: 0.27.0
   origversion: 0.27.0-1.fc41
   status: outdated
+  summary: Blazing fast terminal-ui for git
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: rust-gitui
+  binnames:
+    - gitui
+    - rust-gitui-debuginfo
+    - rust-gitui-debugsource
+  visiblename: rust-gitui
+  version: 0.26.3
+  origversion: 0.26.3-2.fc41
+  status: legacy
   summary: Blazing fast terminal-ui for git
   licenses:
     - MIT
@@ -403,22 +420,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: rust-gitui
-  binnames:
-    - gitui
-    - rust-gitui-debuginfo
-    - rust-gitui-debugsource
-  visiblename: rust-gitui
-  version: 0.28.1
-  origversion: 0.28.1-1.fc43
-  status: newest
-  summary: Blazing fast terminal-ui for git
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: rust-gitui
   binnames:
@@ -429,6 +430,22 @@
   version: 0.27.0
   origversion: 0.27.0-2.fc43
   status: legacy
+  summary: Blazing fast terminal-ui for git
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: rust-gitui
+  binnames:
+    - gitui
+    - rust-gitui-debuginfo
+    - rust-gitui-debugsource
+  visiblename: rust-gitui
+  version: 0.28.1
+  origversion: 0.28.1-1.fc43
+  status: newest
   summary: Blazing fast terminal-ui for git
   licenses:
     - MIT
@@ -536,6 +553,21 @@
     - ZLIB
   categories:
     - dev-vcs
+- repo: gnuguix
+  srcname: gitui
+  binname: gitui
+  visiblename: gitui
+  version: 0.28.1
+  origversion: null
+  status: newest
+  summary: Terminal UI for git
+- repo: homebrew
+  srcname: gitui
+  visiblename: gitui
+  version: 0.28.1
+  origversion: null
+  status: newest
+  summary: Blazing fast terminal-ui for git written in rust
 - repo: homebrew
   srcname: gitui
   visiblename: gitui
@@ -561,27 +593,6 @@
     - ISC
     - MPL-2.0
     - Unicode-DFS-2016
-  categories:
-    - dev-vcs
-- repo: liguros_stable
-  srcname: dev-vcs/gitui
-  visiblename: dev-vcs/gitui
-  version: 0.27.0
-  origversion: null
-  status: outdated
-  summary: blazing fast terminal-ui for git
-  maintainers:
-    - pastalian46@gmail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - CC0-1.0
-    - ISC
-    - MPL-2.0
-    - Unicode-3.0
-    - ZLIB
   categories:
     - dev-vcs
 - repo: liguros_develop
@@ -755,6 +766,22 @@
     - falakreyaz@gmail.com
   licenses:
     - MIT
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: gitui
+  binnames:
+    - gitui
+  visiblename: gitui
+  version: 0.28.0
+  origversion: 0.28.0-1
+  status: outdated
+  summary: Blazing fast terminal-ui for git written in rust
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
 - repo: nix_stable_26_05
   srcname: gitui
   visiblename: gitui
@@ -841,17 +868,6 @@
   summary: Blazing fast terminal-ui for git written in Rust
   maintainers:
     - pinakpaliwal07@gmail.com
-- repo: parabola
-  subrepo: extra
-  srcname: gitui
-  binname: gitui
-  visiblename: gitui
-  version: 0.28.1
-  origversion: 0.28.1-2
-  status: newest
-  summary: Blazing fast terminal-ui for git written in Rust
-  licenses:
-    - MIT
 - repo: pkgsrc_2026_2
   srcname: devel/gitui
   binname: gitui
@@ -888,22 +904,6 @@
     - nonakap@gmail.com
   categories:
     - devel
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: gitui
-  binnames:
-    - gitui
-  visiblename: gitui
-  version: 0.28.0
-  origversion: 0.28.0-1
-  status: outdated
-  summary: Blazing fast terminal-ui for git written in rust
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
 - repo: scoop
   subrepo: main
   binname: gitui
@@ -945,6 +945,16 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
+- repo: starkos
+  subrepo: extra
+  srcname: gitui
+  visiblename: gitui
+  version: 0.28.1
+  origversion: 0.28.1-1
+  status: newest
+  summary: Blazing fast terminal-ui for git written in rust
+  maintainers:
+    - starkos@disroot.org
 - repo: termux
   srcname: gitui
   binname: gitui
