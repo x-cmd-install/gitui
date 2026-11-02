@@ -37,7 +37,7 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,616 · **Forks**: 794 · **Open issues**: 1,110 · **Contributors**: 142
+- **Stars**: 22,620 · **Forks**: 795 · **Open issues**: 1,110 · **Contributors**: 142
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 8 | 0 | 5 | 2 |
-| last60d | 2026-09-02 | 0 | 2 | 9 | 1 | 9 | 3 |
-| 90d | 2026-08-03 | 0 | 2 | 21 | 1 | 12 | 3 |
-| last180d | 2026-05-05 | 0 | 12 | 52 | 5 | 22 | 20 |
-| 360d | 2025-11-06 | 4 | 53 | 73 | 25 | 51 | 88 |
-| last720d | 2024-11-11 | 6 | 209 | 89 | 67 | 97 | 255 |
+| 30d | 2026-10-03 | 0 | 1 | 8 | 0 | 5 | 0 |
+| last60d | 2026-09-03 | 0 | 2 | 9 | 1 | 8 | 3 |
+| 90d | 2026-08-04 | 0 | 2 | 21 | 1 | 12 | 3 |
+| last180d | 2026-05-06 | 0 | 12 | 52 | 5 | 22 | 20 |
+| 360d | 2025-11-07 | 4 | 53 | 73 | 24 | 51 | 86 |
+| last720d | 2024-11-12 | 6 | 208 | 89 | 67 | 97 | 255 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **75** distros on [repology.org](https://repology.org/project/gitui). **39** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **75** distros on [repology.org](https://repology.org/project/gitui). **37** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:25:04Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:29:40Z._
