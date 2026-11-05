@@ -37,22 +37,22 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,619 · **Forks**: 797 · **Open issues**: 1,111 · **Contributors**: 142
+- **Stars**: 22,618 · **Forks**: 796 · **Open issues**: 1,112 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 109 · **Closed issues**: 863 · **Open issues**: 248 · **Commits**: 2633
+- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 109 · **Closed issues**: 863 · **Open issues**: 249 · **Commits**: 2633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 8 | 0 | 5 | 0 |
-| last60d | 2026-09-05 | 0 | 2 | 9 | 1 | 8 | 3 |
-| 90d | 2026-08-06 | 0 | 2 | 21 | 1 | 12 | 3 |
-| last180d | 2026-05-08 | 0 | 12 | 52 | 5 | 23 | 20 |
-| 360d | 2025-11-09 | 4 | 53 | 73 | 23 | 52 | 86 |
-| last720d | 2024-11-14 | 6 | 208 | 89 | 67 | 98 | 255 |
+| 30d | 2026-10-06 | 0 | 0 | 8 | 0 | 6 | 0 |
+| last60d | 2026-09-06 | 0 | 2 | 9 | 1 | 9 | 3 |
+| 90d | 2026-08-07 | 0 | 2 | 21 | 1 | 13 | 3 |
+| last180d | 2026-05-09 | 0 | 12 | 51 | 5 | 24 | 20 |
+| 360d | 2025-11-10 | 4 | 52 | 73 | 23 | 53 | 86 |
+| last720d | 2024-11-15 | 6 | 208 | 89 | 66 | 99 | 255 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **75** distros on [repology.org](https://repology.org/project/gitui). **37** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
+Reported by **76** distros on [repology.org](https://repology.org/project/gitui). **38** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:42:01Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:07:19Z._
