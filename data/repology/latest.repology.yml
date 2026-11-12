@@ -1,3 +1,14 @@
+- repo: stalix
+  srcname: bin/git/ui
+  binname: bin/git/ui
+  visiblename: bin/git/ui
+  version: 0.28.1
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: stalix_dev
   srcname: bin/git/ui
   binname: bin/git/ui
@@ -9,26 +20,6 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
-- repo: starkos
-  subrepo: extra
-  srcname: gitui
-  visiblename: gitui
-  version: 0.28.1
-  origversion: 0.28.1-1
-  status: newest
-  summary: Blazing fast terminal-ui for git written in rust
-  maintainers:
-    - starkos@disroot.org
-- repo: termux
-  srcname: gitui
-  binname: gitui
-  visiblename: gitui
-  version: 0.28.1
-  origversion: null
-  status: newest
-  summary: Blazing fast terminal-ui for git written in rust
-  maintainers:
-    - termux@github
 - repo: aerynos
   srcname: gitui
   visiblename: gitui
@@ -90,16 +81,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: slackbuilds
-  srcname: development/gitui
-  visiblename: development/gitui
-  version: 0.28.1
-  origversion: null
-  status: newest
-  maintainers:
-    - boxjake.romero@protonmail.com
-  categories:
-    - development
 - repo: alpine_3_21
   subrepo: community
   srcname: gitui
@@ -301,22 +282,6 @@
   maintainers:
     - tbier@posteo.de
 - repo: fedora_39
-  subrepo: release
-  srcname: rust-gitui
-  binnames:
-    - gitui
-    - rust-gitui-debuginfo
-    - rust-gitui-debugsource
-  visiblename: rust-gitui
-  version: 0.23.0
-  origversion: 0.23.0-1.fc39
-  status: legacy
-  summary: Blazing fast terminal-ui for git
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: updates
   srcname: rust-gitui
   binnames:
@@ -332,7 +297,7 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_40
+- repo: fedora_39
   subrepo: release
   srcname: rust-gitui
   binnames:
@@ -340,8 +305,8 @@
     - rust-gitui-debuginfo
     - rust-gitui-debugsource
   visiblename: rust-gitui
-  version: 0.24.3
-  origversion: 0.24.3-4.fc40
+  version: 0.23.0
+  origversion: 0.23.0-1.fc39
   status: legacy
   summary: Blazing fast terminal-ui for git
   licenses:
@@ -364,7 +329,7 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: release
   srcname: rust-gitui
   binnames:
@@ -372,8 +337,8 @@
     - rust-gitui-debuginfo
     - rust-gitui-debugsource
   visiblename: rust-gitui
-  version: 0.26.3
-  origversion: 0.26.3-2.fc41
+  version: 0.24.3
+  origversion: 0.24.3-4.fc40
   status: legacy
   summary: Blazing fast terminal-ui for git
   licenses:
@@ -396,17 +361,22 @@
     - MIT
   categories:
     - Unspecified
-- repo: stalix
-  srcname: bin/git/ui
-  binname: bin/git/ui
-  visiblename: bin/git/ui
-  version: 0.28.1
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
+- repo: fedora_41
+  subrepo: release
+  srcname: rust-gitui
+  binnames:
+    - gitui
+    - rust-gitui-debuginfo
+    - rust-gitui-debugsource
+  visiblename: rust-gitui
+  version: 0.26.3
+  origversion: 0.26.3-2.fc41
+  status: legacy
+  summary: Blazing fast terminal-ui for git
+  licenses:
+    - MIT
   categories:
-    - bin
+    - Unspecified
 - repo: fedora_42
   subrepo: updates
   srcname: rust-gitui
@@ -472,22 +442,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: rust-gitui
-  binnames:
-    - gitui
-    - rust-gitui-debuginfo
-    - rust-gitui-debugsource
-  visiblename: rust-gitui
-  version: 0.28.0
-  origversion: 0.28.0-4.fc44
-  status: legacy
-  summary: Blazing fast terminal-ui for git
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: rust-gitui
   binnames:
@@ -498,6 +452,22 @@
   version: 0.28.1
   origversion: 0.28.1-4.fc44
   status: newest
+  summary: Blazing fast terminal-ui for git
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: rust-gitui
+  binnames:
+    - gitui
+    - rust-gitui-debuginfo
+    - rust-gitui-debugsource
+  visiblename: rust-gitui
+  version: 0.28.0
+  origversion: 0.28.0-4.fc44
+  status: legacy
   summary: Blazing fast terminal-ui for git
   licenses:
     - MIT
@@ -636,6 +606,22 @@
     - ZLIB
   categories:
     - dev-vcs
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: gitui
+  binnames:
+    - gitui
+  visiblename: gitui
+  version: 0.28.0
+  origversion: 0.28.0-1
+  status: outdated
+  summary: Blazing fast terminal-ui for git written in rust
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
 - repo: liguros_develop
   srcname: dev-vcs/gitui
   visiblename: dev-vcs/gitui
@@ -807,6 +793,15 @@
     - falakreyaz@gmail.com
   licenses:
     - MIT
+- repo: scoop
+  subrepo: main
+  binname: gitui
+  visiblename: gitui
+  version: 0.28.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: gitui
   visiblename: gitui
@@ -940,31 +935,36 @@
     - nonakap@gmail.com
   categories:
     - devel
-- repo: rosa_13
-  subrepo: contrib/release
+- repo: slackbuilds
+  srcname: development/gitui
+  visiblename: development/gitui
+  version: 0.28.1
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - development
+- repo: starkos
+  subrepo: extra
   srcname: gitui
-  binnames:
-    - gitui
   visiblename: gitui
-  version: 0.28.0
-  origversion: 0.28.0-1
-  status: outdated
+  version: 0.28.1
+  origversion: 0.28.1-1
+  status: newest
   summary: Blazing fast terminal-ui for git written in rust
   maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
-- repo: scoop
-  subrepo: main
+    - starkos@disroot.org
+- repo: termux
+  srcname: gitui
   binname: gitui
   visiblename: gitui
   version: 0.28.1
   origversion: null
   status: newest
-  licenses:
-    - MIT
+  summary: Blazing fast terminal-ui for git written in rust
+  maintainers:
+    - termux@github
 - repo: void_x86_64
   subrepo: x86_64
   srcname: gitui
