@@ -37,22 +37,22 @@ Total: **41,759** lines of code across **177** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,685 · **Forks**: 807 · **Open issues**: 1,113 · **Contributors**: 142
+- **Stars**: 22,690 · **Forks**: 806 · **Open issues**: 1,114 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 112 · **Closed issues**: 863 · **Open issues**: 250 · **Commits**: 2633
+- **Releases**: 67 · **Merged PRs**: 1124 · **Open PRs**: 112 · **Closed issues**: 863 · **Open issues**: 251 · **Commits**: 2633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last60d | 2026-09-26 | 0 | 2 | 11 | 1 | 8 | 2 |
-| 90d | 2026-08-27 | 0 | 2 | 12 | 1 | 12 | 3 |
-| last180d | 2026-05-29 | 0 | 10 | 49 | 3 | 24 | 19 |
-| 360d | 2025-11-30 | 4 | 47 | 76 | 17 | 51 | 74 |
-| last720d | 2024-12-05 | 6 | 207 | 91 | 65 | 95 | 253 |
+| 30d | 2026-10-27 | 0 | 0 | 6 | 0 | 4 | 0 |
+| last60d | 2026-09-27 | 0 | 2 | 11 | 1 | 9 | 2 |
+| 90d | 2026-08-28 | 0 | 2 | 12 | 1 | 13 | 3 |
+| last180d | 2026-05-30 | 0 | 10 | 49 | 3 | 25 | 19 |
+| 360d | 2025-12-01 | 4 | 42 | 76 | 17 | 50 | 74 |
+| last720d | 2024-12-06 | 6 | 207 | 91 | 65 | 96 | 253 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for gitui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:54:00Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:57:42Z._
